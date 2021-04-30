@@ -1,0 +1,71 @@
+nav {
+    display: block;
+    background-color: black;
+    height: 80px;
+    line-height: 80px;
+    font-size: 21px;
+    top: 100px;
+    width: 100%;
+}
+
+a {
+    display: block;
+    color: blanchedalmond;
+    float: left;
+    border-right: solid 2px blanchedalmond;
+    padding: 0 28px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: lightseagreen;
+}
+
+.active {
+    background-color: rgb(50, 180, 174);
+}
+
+.logo {
+    padding-left: 0%;
+    display: inline;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: teal;
+    display: inline;
+    font-size: 50px;
+    text-align: center;
+    padding-left: 19%;
+}
+
+.cover {
+    padding-top: 20px;
+    padding-left: 5%;
+    font-style: italic;
+    font-size: small;
+    text-align: center;
+}
+.backcolour {
+    background-color:whitesmoke;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: teal;
+    font-size: large;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #000;
+    font-size: medium;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #000;
+    color: white;
+}
+
